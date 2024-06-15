@@ -24,3 +24,7 @@ The Belly Button Biodiversity Dashboard displays interactive visualizations usin
 1. Clone the repository:
    ```bash
    git clone [repository-url]
+2. Navigate to the project directory:
+   ```bash
+   cd belly-button-challange
+3. Open the index.html file in a web browser to view the dashboard.
